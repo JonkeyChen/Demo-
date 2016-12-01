@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Jiky</string>
+		<key>age</key>
+		<string>10</string>
+		<key>sex</key>
+		<string>男</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sondy</string>
+		<key>age</key>
+		<string>12</string>
+		<key>sex</key>
+		<string>女</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ton</string>
+		<key>age</key>
+		<string>13</string>
+		<key>sex</key>
+		<string>男</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lily</string>
+		<key>age</key>
+		<integer>14</integer>
+		<key>sex</key>
+		<string>女</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:&#x7535;&#x5b50;&#x7b7e;&#x540d;/&#x7535;&#x5b50;&#x7b7e;&#x540d;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Blocks_NetWork_Swift/Blocks_NetWork_Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FooterDatePickerViewTest/FooterDatePickerViewTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x4eff;&#x6dd8;&#x5b9d;&#x5546;&#x54c1;&#x8be6;&#x60c5;Test/&#x4eff;&#x6dd8;&#x5b9d;&#x5546;&#x54c1;&#x8be6;&#x60c5;Test.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DeallocTest1/DeallocTest1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ExpandTableViewTest/ExpandTableViewTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UserCenterScrollViewTest/UserCenterScrollViewTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIRefreshControlTest/UIRefreshControlTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIVisualEffectViewTest/UIVisualEffectViewTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GetMaxMinValueQuickly/GetMaxMinValueQuickly.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x753b;&#x865a;&#x7ebf;/&#x753b;&#x865a;&#x7ebf;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIView&#x7684;&#x90e8;&#x5206;&#x5706;&#x89d2;/UIView&#x7684;&#x90e8;&#x5206;&#x5706;&#x89d2;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIChartTest/UIChartTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:JKFrameworkTest/JKFrameworkTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:JKFramework/JKFramework.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AutoLayoutContentCompressionTest/AutoLayoutContentCompressionTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Plist&#x6587;&#x4ef6;&#x7684;&#x4f7f;&#x7528;&#x548c;&#x521b;&#x5efa;/Plist&#x6587;&#x4ef6;&#x7684;&#x4f7f;&#x7528;&#x548c;&#x521b;&#x5efa;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:YYKit-master/Demo/YYKitDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Runtime&#x9009;&#x62e9;&#x5668;&amp;&#x65b9;&#x6cd5;/Runtime&#x9009;&#x62e9;&#x5668;&amp;&#x65b9;&#x6cd5;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Runtime&#x52a8;&#x6001;&#x6dfb;&#x52a0;View&#x624b;&#x52bf;/Runtime&#x52a8;&#x6001;&#x6dfb;&#x52a0;View&#x624b;&#x52bf;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ExampleRuntime/ExampleRuntime.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:RunTime&#x5b66;&#x4e60;/RunTime&#x5b66;&#x4e60;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:App&#x7f13;&#x5b58;&#x8ba1;&#x7b97;&amp;&#x6e05;&#x7406;/App&#x7f13;&#x5b58;&#x8ba1;&#x7b97;&amp;&#x6e05;&#x7406;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x8d1d;&#x585e;&#x5c14;&#x66f2;&#x7ebf;&amp;&#x8fdb;&#x5ea6;&#x6761;&#x52a8;&#x753b;/&#x8d1d;&#x585e;&#x5c14;&#x66f2;&#x7ebf;&amp;&#x8fdb;&#x5ea6;&#x6761;&#x52a8;&#x753b;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UICollectionView&#x6c34;&#x5e73;&#x7f29;&#x653e;&#x5e03;&#x5c40;/UICollectionView&#x6c34;&#x5e73;&#x7f29;&#x653e;&#x5e03;&#x5c40;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UICollectionView&#x57fa;&#x672c;&#x4f7f;&#x7528;/UICollectionView&#x57fa;&#x672c;&#x4f7f;&#x7528;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x725b;&#x987f;&#x6446;&#x9524;/&#x725b;&#x987f;&#x6446;&#x9524;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x8fde;&#x5e26;&#x52a8;&#x753b;UISanpBehavior/&#x8fde;&#x5e26;&#x52a8;&#x753b;UISanpBehavior.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UILabel&#x7eda;&#x4e3d;&#x7684;&#x6e10;&#x53d8;&#x8272;/UILabel&#x7eda;&#x4e3d;&#x7684;&#x6e10;&#x53d8;&#x8272;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CustomViewWithIB/CustomViewWithIB.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UITableView&#x6027;&#x80fd;&#x4f18;&#x5316;/UITableView&#x6027;&#x80fd;&#x4f18;&#x5316;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x5b8f;&#x5b9a;&#x4e49;&#x7684;&#x9ed1;&#x9b54;&#x6cd5;/&#x5b8f;&#x5b9a;&#x4e49;&#x7684;&#x9ed1;&#x9b54;&#x6cd5;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GCD&#x65b9;&#x6cd5;&#x6d4b;&#x8bd5;/GCD&#x65b9;&#x6cd5;&#x6d4b;&#x8bd5;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x9759;&#x6001;&#x65b9;&#x6cd5;&#x4f7f;&#x7528;/&#x9759;&#x6001;&#x65b9;&#x6cd5;&#x4f7f;&#x7528;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MacProjectTest/MacProjectTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IB_DESIGNABLE_Test/IB_DESIGNABLE_Test.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x6587;&#x4ef6;&#x8bb0;&#x5f55;.txt">
+   </FileRef>
+   <FileRef
+      location = "group:NSCalendar&#x6d4b;&#x8bd5;/NSCalendar&#x6d4b;&#x8bd5;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Swift &#x521d;&#x89c1;.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Swift&#x57fa;&#x7840;.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Swift&#x4e4b;String.playground">
+   </FileRef>
+</Workspace>

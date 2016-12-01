@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" restorationIdentifier="RecordHeaderCell" selectionStyle="default" indentationWidth="10" reuseIdentifier="RecordHeaderCell" id="KGk-i7-Jjw" customClass="RecordHeaderCell">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="100"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <frame key="frameInset" width="375" height="100"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="cell.png" translatesAutoresizingMaskIntoConstraints="NO" id="4EV-KR-yoq">
+                        <constraints>
+                            <constraint firstAttribute="width" constant="60" id="1O7-8D-8yO"/>
+                            <constraint firstAttribute="height" constant="60" id="ZA0-gq-Vt6"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="4EV-KR-yoq" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="15" id="o7W-1S-4Al"/>
+                    <constraint firstItem="4EV-KR-yoq" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="vcr-Kd-SrK"/>
+                </constraints>
+            </tableViewCellContentView>
+            <point key="canvasLocation" x="35.5" y="54"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="cell.png" width="374" height="376"/>
+    </resources>
+</document>

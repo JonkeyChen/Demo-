@@ -1,0 +1,4 @@
+
+1.趣拍build ID : com.centanet.hkvideo
+
+2.OS_ACTIVITY_MODE disable

@@ -1,0 +1,319 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8926F2791D5AFEA2009CA53F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8926F2781D5AFEA2009CA53F /* main.m */; };
+		8926F27C1D5AFEA2009CA53F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8926F27B1D5AFEA2009CA53F /* AppDelegate.m */; };
+		8926F27F1D5AFEA2009CA53F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8926F27E1D5AFEA2009CA53F /* ViewController.m */; };
+		8926F2821D5AFEA2009CA53F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8926F2801D5AFEA2009CA53F /* Main.storyboard */; };
+		8926F2841D5AFEA2009CA53F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8926F2831D5AFEA2009CA53F /* Assets.xcassets */; };
+		8926F2871D5AFEA2009CA53F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8926F2851D5AFEA2009CA53F /* LaunchScreen.storyboard */; };
+		8926F2901D5AFEBC009CA53F /* DFChangeLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8926F28F1D5AFEBC009CA53F /* DFChangeLabel.m */; };
+		89B1C1811D5B048400CF8214 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 89B1C1801D5B048400CF8214 /* 1.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8926F2741D5AFEA2009CA53F /* UILabel绚丽的渐变色.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UILabel绚丽的渐变色.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8926F2781D5AFEA2009CA53F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8926F27A1D5AFEA2009CA53F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		8926F27B1D5AFEA2009CA53F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		8926F27D1D5AFEA2009CA53F /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		8926F27E1D5AFEA2009CA53F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		8926F2811D5AFEA2009CA53F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8926F2831D5AFEA2009CA53F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8926F2861D5AFEA2009CA53F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8926F2881D5AFEA2009CA53F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8926F28E1D5AFEBC009CA53F /* DFChangeLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DFChangeLabel.h; sourceTree = "<group>"; };
+		8926F28F1D5AFEBC009CA53F /* DFChangeLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DFChangeLabel.m; sourceTree = "<group>"; };
+		89B1C1801D5B048400CF8214 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8926F2711D5AFEA2009CA53F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8926F26B1D5AFEA2009CA53F = {
+			isa = PBXGroup;
+			children = (
+				8926F2761D5AFEA2009CA53F /* UILabel绚丽的渐变色 */,
+				8926F2751D5AFEA2009CA53F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8926F2751D5AFEA2009CA53F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8926F2741D5AFEA2009CA53F /* UILabel绚丽的渐变色.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8926F2761D5AFEA2009CA53F /* UILabel绚丽的渐变色 */ = {
+			isa = PBXGroup;
+			children = (
+				89B1C1801D5B048400CF8214 /* 1.png */,
+				8926F28E1D5AFEBC009CA53F /* DFChangeLabel.h */,
+				8926F28F1D5AFEBC009CA53F /* DFChangeLabel.m */,
+				8926F27A1D5AFEA2009CA53F /* AppDelegate.h */,
+				8926F27B1D5AFEA2009CA53F /* AppDelegate.m */,
+				8926F27D1D5AFEA2009CA53F /* ViewController.h */,
+				8926F27E1D5AFEA2009CA53F /* ViewController.m */,
+				8926F2801D5AFEA2009CA53F /* Main.storyboard */,
+				8926F2831D5AFEA2009CA53F /* Assets.xcassets */,
+				8926F2851D5AFEA2009CA53F /* LaunchScreen.storyboard */,
+				8926F2881D5AFEA2009CA53F /* Info.plist */,
+				8926F2771D5AFEA2009CA53F /* Supporting Files */,
+			);
+			path = "UILabel绚丽的渐变色";
+			sourceTree = "<group>";
+		};
+		8926F2771D5AFEA2009CA53F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8926F2781D5AFEA2009CA53F /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8926F2731D5AFEA2009CA53F /* UILabel绚丽的渐变色 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8926F28B1D5AFEA2009CA53F /* Build configuration list for PBXNativeTarget "UILabel绚丽的渐变色" */;
+			buildPhases = (
+				8926F2701D5AFEA2009CA53F /* Sources */,
+				8926F2711D5AFEA2009CA53F /* Frameworks */,
+				8926F2721D5AFEA2009CA53F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "UILabel绚丽的渐变色";
+			productName = "UILabel绚丽的渐变色";
+			productReference = 8926F2741D5AFEA2009CA53F /* UILabel绚丽的渐变色.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8926F26C1D5AFEA2009CA53F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = oneyd.me;
+				TargetAttributes = {
+					8926F2731D5AFEA2009CA53F = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = ZYX3LYN6TF;
+					};
+				};
+			};
+			buildConfigurationList = 8926F26F1D5AFEA2009CA53F /* Build configuration list for PBXProject "UILabel绚丽的渐变色" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8926F26B1D5AFEA2009CA53F;
+			productRefGroup = 8926F2751D5AFEA2009CA53F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8926F2731D5AFEA2009CA53F /* UILabel绚丽的渐变色 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8926F2721D5AFEA2009CA53F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8926F2871D5AFEA2009CA53F /* LaunchScreen.storyboard in Resources */,
+				8926F2841D5AFEA2009CA53F /* Assets.xcassets in Resources */,
+				89B1C1811D5B048400CF8214 /* 1.png in Resources */,
+				8926F2821D5AFEA2009CA53F /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8926F2701D5AFEA2009CA53F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8926F27F1D5AFEA2009CA53F /* ViewController.m in Sources */,
+				8926F27C1D5AFEA2009CA53F /* AppDelegate.m in Sources */,
+				8926F2901D5AFEBC009CA53F /* DFChangeLabel.m in Sources */,
+				8926F2791D5AFEA2009CA53F /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		8926F2801D5AFEA2009CA53F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8926F2811D5AFEA2009CA53F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		8926F2851D5AFEA2009CA53F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8926F2861D5AFEA2009CA53F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8926F2891D5AFEA2009CA53F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		8926F28A1D5AFEA2009CA53F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8926F28C1D5AFEA2009CA53F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "UILabel绚丽的渐变色/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.icloud.JonkeyChen.UILabel------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		8926F28D1D5AFEA2009CA53F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "UILabel绚丽的渐变色/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.icloud.JonkeyChen.UILabel------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8926F26F1D5AFEA2009CA53F /* Build configuration list for PBXProject "UILabel绚丽的渐变色" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8926F2891D5AFEA2009CA53F /* Debug */,
+				8926F28A1D5AFEA2009CA53F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8926F28B1D5AFEA2009CA53F /* Build configuration list for PBXNativeTarget "UILabel绚丽的渐变色" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8926F28C1D5AFEA2009CA53F /* Debug */,
+				8926F28D1D5AFEA2009CA53F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8926F26C1D5AFEA2009CA53F /* Project object */;
+}
